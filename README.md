@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science
 -->
 
-🔭 I’m a upcomming MSCS student at UCSD
+🔭 I’m a MSCS student at UCSD
 
 🌱 I’m currently learning Computer Science
 
